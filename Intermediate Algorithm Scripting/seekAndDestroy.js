@@ -8,4 +8,4 @@ function destroyer(arr) {
   return arr;
 }
 
-console.log(destroyer([3, 5, 1, 2, 2], 2, 3, 5)); // returns [1]
+console.log(destroyer([3, 5, 1, 2, 2], 2, 3, 5)); // returns [1]  
