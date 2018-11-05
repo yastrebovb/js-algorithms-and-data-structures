@@ -1,4 +1,4 @@
-const sumPrimes = (num) => {
+const sumPrimes = num => {
   let sum = 0;
 
   const isPrime = num => {
