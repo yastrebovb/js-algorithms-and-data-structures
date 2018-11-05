@@ -1,0 +1,25 @@
+{
+  "name": "js-algorithms-and-data-structures",
+  "version": "1.0.0",
+  "description": "JavaScript Algorithms and Data Structures certification",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src --out-dir lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yastrebovb/js-algorithms-and-data-structures.git"
+  },
+  "author": "Boris Yastrebov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yastrebovb/js-algorithms-and-data-structures/issues"
+  },
+  "homepage": "https://github.com/yastrebovb/js-algorithms-and-data-structures#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.1.2",
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0"
+  },
+  "dependencies": {}
+}
